@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <TextView
+        android:id="@+id/txt_UserName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Patient Id"
+        android:padding="16dp" />
+
+    <TextView
+        android:id="@+id/txt_DigitalId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="DigitalId"
+        android:padding="16dp" />
+
+    <EditText
+        android:id="@+id/edt_PatientComplain"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Patient Complain"
+        android:padding="16dp" />
+
+    <EditText
+        android:id="@+id/edt_PhysicalExamination"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Physical Examination"
+        android:padding="16dp" />
+
+    <EditText
+        android:id="@+id/edt_Recomendation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Recomendation"
+        android:padding="16dp" />
+    <EditText
+        android:id="@+id/edt_Medication"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Medication"
+        android:padding="16dp" />
+
+
+    <Button
+        android:id="@+id/btn_UploadPresciption"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/button_background"
+        android:text="Upload"
+        android:textAllCaps="false" />
+
+
+</LinearLayout>

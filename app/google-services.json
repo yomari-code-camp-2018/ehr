@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "837197446003",
+    "firebase_url": "https://ehrbackend.firebaseio.com",
+    "project_id": "ehrbackend",
+    "storage_bucket": "ehrbackend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837197446003:android:8bd960edabbbb317",
+        "android_client_info": {
+          "package_name": "com.yala.sushant.ehr_backend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837197446003-hg7ok2bf153etduch1r5rle9e41gclp6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yala.sushant.ehr_backend",
+            "certificate_hash": "8bf7163dbe3fb590156b1ba15a92d74778a218ae"
+          }
+        },
+        {
+          "client_id": "837197446003-j80o05k74eauv5tvf4bjohqhqt14jbef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV9MFUy6CxTcevhvHMlbcDrT1fkdexNSk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837197446003-j80o05k74eauv5tvf4bjohqhqt14jbef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
